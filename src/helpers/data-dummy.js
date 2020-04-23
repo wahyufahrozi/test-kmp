@@ -1,241 +1,241 @@
 const DataDummy = [
   {
     attributes: {
-      name: "col",
-      color: "red,",
+      name: "color",
+      color: "red",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "green",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "yellow",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "brown",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "grey",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "purple",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "grey",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "purple",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "pink",
     },
   },
   {
     attributes: {
-      name: "col",
-      color: "red,",
+      name: "color",
+      color: "red",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "green",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "yellow",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "brown",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "grey",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "purple",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "pink",
     },
   },
   {
     attributes: {
-      name: "col",
-      color: "red,",
+      name: "color",
+      color: "red",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "green",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "yellow",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
-      color: "red,",
+      name: "color",
+      color: "red",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "green",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "purple",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "pink",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "yellow",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "grey",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "purple",
     },
   },
   {
     attributes: {
-      name: "col",
-      color: "red,",
+      name: "color",
+      color: "red",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "yellow",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "green",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "blue",
     },
   },
   {
     attributes: {
-      name: "col",
+      name: "color",
       color: "pink",
     },
   },
