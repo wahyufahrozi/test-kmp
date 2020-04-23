@@ -1,5 +1,9 @@
+.input-data {
+  margin: 20px 0;
+}
 .square {
   display: flex;
+  margin: 20px 0;
   flex-direction: column;
   background-color: #95dada;
   border: 1px solid grey;
@@ -8,6 +12,4 @@
   cursor: pointer;
   -moz-osx-font-smoothing: grayscale;
   backface-visibility: hidden;
-  transform: translateZ(0);
-  transition: transform 0.25s ease-out;
 }
